@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Prabesh Tiwari
+- 👋 Hi, I’m <b><i>Prabesh Tiwari</b></i>
 - 👀 I’m interested in Web developer 
 - 🌱 I’m currently learning C-Sharp
-- 📫 How to reach me prabeshtiwari1414@gmail.com
+- 📫 How to reach me <i>prabeshtiwari1414@gmail.com</i>
 - 💓 I like sports
 - 🙂 Fun fact: Many owner of large tech companies loved video games as kids.
 - 👍 Be a best person of all.
