@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <b><i>Prabesh Tiwari</b></i>
 - 👀 I’m interested in Web developer 
-- 🌱 I’m currently learning C-Sharp
+- 🌱 I’m currently learning laravel
 - 💬  Ask me about Web Development
 - 📫 How to reach me <i>prabeshtiwari1414@gmail.com</i>
 - 💓 I like sports
