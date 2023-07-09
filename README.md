@@ -8,7 +8,7 @@
 - 👍 Themes: Be a best person of all.
 - Find me on
 
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/prabeshtiwari1414/)
+    [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/prabeshtiwari1414/)
 
 
 
