@@ -12,6 +12,8 @@
     [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/prabeshtiwari1414/)
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=prabeshtiwari1414&theme=onedark)]
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabeshtiwari1414&theme=merko&hide_progress=true)
 
