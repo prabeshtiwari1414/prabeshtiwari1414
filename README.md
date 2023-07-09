@@ -6,8 +6,15 @@
 - 💓 I like sports
 - 🙂 Fun fact: <i>Many owner of large tech companies loved video games as kids.</i>
 - 👍 Themes: Be a best person of all.
+- Find me on
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/prabeshtiwari1414/)
+
+
+
+Language & Tool:  
+
+[![My Skills](https://skillicons.dev/icons?i=laravel,html,css,bootstrap,js,jquery,c,cs,cpp,java,dotnet,php,git,github,linux,mysql,vscode)]()
 <!---
 prabeshtiwari1414/prabeshtiwari1414 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
