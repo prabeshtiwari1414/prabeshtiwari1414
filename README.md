@@ -12,6 +12,12 @@
 
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabeshtiwari1414&theme=merko&hide_progress=true)
+
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabeshtiwari1414&theme=merko&show_icons=true)
+
+
 Language & Tool:  
 
 [![My Skills](https://skillicons.dev/icons?i=laravel,html,css,bootstrap,js,jquery,c,cs,cpp,java,dotnet,php,git,github,linux,mysql,vscode)]()
