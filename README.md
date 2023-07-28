@@ -3,11 +3,11 @@
 - 👀 I’m interested in Web developer 
 - 🌱 I’m currently learning laravel(Framework of php)
 - 💬  Ask me about Web Development
-- 📫 How to reach me <i>prabeshtiwari1414@gmail.com</i>
+- 🤝 How to reach me <i>prabeshtiwari1414@gmail.com</i>
 - 💓 I like sports
 - 🙂 Fun fact: <i>Many owner of large tech companies loved video games as kids.</i>
 - 👍 Themes: Be a best person of all.
-- Find me on
+- 🔍Find me on
 
     [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/prabeshtiwari1414/)
 
