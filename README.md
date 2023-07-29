@@ -5,7 +5,7 @@
 - 💬  Ask me about Web Development
 - 🤝 How to reach me <i>prabeshtiwari1414@gmail.com</i>
 - 💓 I like sports
-- 🙂 Fun fact: <i>Many owner of large tech companies loved video games as kids.</i>
+- 🙂 Fun fact: <i>Many owner of large tech     companies loved video games as kids.</i>
 - 👍 Themes: Be a best person of all.
 - 🔍Find me on
 
