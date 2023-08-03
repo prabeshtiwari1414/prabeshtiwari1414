@@ -9,7 +9,7 @@
 - 👍 Themes: Be a best person of all.
 - 🔍Find me on
 
-    [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/prabeshtiwari1414/)
+   <a herf="https://www.instagram.com/prabeshtiwari1414/" target="_blank"> [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/prabeshtiwari1414/)</a>
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=prabeshtiwari1414&theme=onedark)
