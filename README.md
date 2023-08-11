@@ -1,10 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=prabeshtiwari&color=brightgreen)
-- 👋 Hi, I’m <b><i>Prabesh Tiwari</b></i>
-- 👀 I’m interested in Web developer 
-- 🌱 I’m currently learning laravel(Framework of php)
-- 💬  Ask me about Web Development
-- 🤝 How to reach me <i>prabeshtiwari1414@gmail.com</i>
-- 💓 I like sports
+- 👋 Hi, I’m <b><i>Prabesh Tiwari</b></i>.
+- 👀 I’m interested in Web developer.
+- 🌱 I’m currently learning. laravel(Framework of php)
+- 💬  Ask me about Web Development.
+- 🤝 How to reach me.<i>prabeshtiwari1414@gmail.com</i>
+- 💓 I like sports.
 - 🙂 Fun fact: <i>Many owner of large tech     companies loved video games as kids.</i>
 - 👍 Themes: Be a best person of all.
 - 🔍Find me on
