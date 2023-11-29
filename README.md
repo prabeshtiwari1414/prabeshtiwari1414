@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=prabeshtiwari&color=brightgreen)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=Details+below+%F0%9F%91%87.)](https://git.io/typing-svg)
 - 👋 Hi, I’m <b><i>Prabesh Tiwari</b></i>.
 - 👀 I’m interested in Web developer.
 - 🌱 I’m currently learning. laravel(Framework of php)
@@ -34,5 +34,7 @@ You can click the Preview link to take a look at your changes.
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=prabeshtiwari1414&theme=merko)](https://git.io/streak-stats)
 
+
+![](https://komarev.com/ghpvc/?username=prabeshtiwari&color=brightgreen)
 
 
