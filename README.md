@@ -26,7 +26,7 @@
 
 Language & Tool:  
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,html,css,bootstrap,js,jquery,c,cs,cpp,java,dotnet,php,git,github,linux,mysql,discord,materialui,ps,vscode)]()
+[![My Skills](https://skillicons.dev/icons?i=laravel,html,css,bootstrap,js,jquery,c,cs,cpp,java,dotnet,php,git,github,linux,mysql,discord,materialui,ps,vscode,unity,blender)]()
 <!---
 prabeshtiwari1414/prabeshtiwari1414 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
