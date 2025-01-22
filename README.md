@@ -32,8 +32,8 @@ prabeshtiwari1414/prabeshtiwari1414 is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 ### :fire: My Stats :
-![image](https://user-images.githubusercontent.com/20955511/183303729-f3c89ba7-efef-437e-9a05-fa5feebb9d72.png)       
+[![GitHub Streak](https://streak-stats.demolab.com?user=prabeshtiwari1414&theme=blueberry&hide_border=true)](https://git.io/streak-stats)
 
-![](https://komarev.com/ghpvc/?username=prabeshtiwari&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=prabeshtiwari1414&color=brightgreen)
 
 
