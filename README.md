@@ -18,10 +18,10 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=prabeshtiwari1414&theme=onedark)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabeshtiwari1414&theme=merko&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabeshtiwari1414&theme=blueberry&hide_progress=true)
 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabeshtiwari1414&theme=merko&show_icons=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabeshtiwari1414&theme=blueberry&show_icons=true)
 
 
 Language & Tool:  
