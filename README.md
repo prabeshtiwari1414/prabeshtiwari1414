@@ -1,3 +1,5 @@
+<img src ="https://media.licdn.com/dms/image/v2/D4D16AQFXTkyy2uQ4wQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737379946607?e=1743033600&v=beta&t=dXlOvUzm0XAito-5A8Ag1Ei-JXRKLi-ZKJbFxtB3zUc">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=Details+below+%F0%9F%91%87.)](https://git.io/typing-svg)
 - 👋 Hi, I’m <b><i>Prabesh Tiwari</b></i>.
 - 👀 I’m interested in Web developer.
@@ -12,6 +14,7 @@
    <a herf="https://www.instagram.com/prabeshtiwari1414/" target="_blank"> [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/prabeshtiwari1414/)</a>
    <a herf="https://www.linkedin.com/in/prabeshtiwari1414/" target="_blank"> [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/prabeshtiwari1414/)</a>
    <a herf="http://prabeshtiwari.com.np/" target="_blank"> [![My Skills](https://skillicons.dev/icons?i=webpack)](http://prabeshtiwari.com.np/)</a>
+
 
 
 
