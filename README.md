@@ -35,8 +35,8 @@ prabeshtiwari1414/prabeshtiwari1414 is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=prabeshtiwari1414&theme=blueberry&hide_border=true)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=prabeshtiwari1414&theme=blueberry)](https://git.io/streak-stats)
 
 
 
