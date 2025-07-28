@@ -1,42 +1,60 @@
-<img src ="https://media.licdn.com/dms/image/v2/D4D16AQFXTkyy2uQ4wQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737379946607?e=1743033600&v=beta&t=dXlOvUzm0XAito-5A8Ag1Ei-JXRKLi-ZKJbFxtB3zUc">
+<!-- Banner Image -->
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQFXTkyy2uQ4wQ/profile-displaybackgroundimage-shrink_350_1400/0/1737379946607?e=1756339200&v=beta&t=ymAv5DQPr8jToP7OGSsHQf7aTzqt6k-Q5ld6kxhNCo8" alt="banner" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=Details+below+%F0%9F%91%87.)](https://git.io/typing-svg)
-- 👋 Hi, I’m <b><i>Prabesh Tiwari</b></i>.
-- 👀 I’m interested in Web developer.
-- 🌱 I’m currently learning. laravel(Framework of php)
-- 💬  Ask me about Web Development.
-- 🤝 How to reach me.<i>prabeshtiwari1414@gmail.com</i>
-- 💓 I like sports.
-- 🙂 Fun fact: <i>Many owner of large tech     companies loved video games as kids.</i>
-- 👍 Themes: Be a best person of all.
-- 🔍Find me on
 
-   <a herf="https://www.instagram.com/prabeshtiwari1414/" target="_blank"> [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/prabeshtiwari1414/)</a>
-   <a herf="https://www.linkedin.com/in/prabeshtiwari1414/" target="_blank"> [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/prabeshtiwari1414/)</a>
-   <a herf="http://prabeshtiwari.com.np/" target="_blank"> [![My Skills](https://skillicons.dev/icons?i=webpack)](http://prabeshtiwari.com.np/)</a>
+### 👋 Hi there! I’m **Prabesh Tiwari**
 
+- 👀 I’m passionate about **Web Development**
+- 🌱 Currently learning **Laravel** (PHP framework)
+- 💬 Ask me about anything related to **Web Development**
+- 📧 Reach me at: **prabeshtiwari1414@gmail.com**
+- ❤️ I enjoy sports
+- 🙂 Fun fact: *Many large tech company founders loved video games as kids*
+- ✨ Personal motto: *"Be the best version of yourself."*
 
+---
 
+### 🔗 **Find me on**
 
-![trophy](https://github-profile-trophy.vercel.app/?username=prabeshtiwari1414&theme=onedark)
+<p>
+  <a href="https://www.instagram.com/prabeshtiwari1414/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/prabeshtiwari1414/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="http://prabeshtiwari.com.np/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=webpack" alt="Portfolio"/>
+  </a>
+</p>
 
+---
+
+### 🏆 GitHub Achievements
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=prabeshtiwari1414&theme=onedark)
+
+---
+
+### 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabeshtiwari1414&theme=blueberry&hide_progress=true)
 
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabeshtiwari1414&theme=blueberry&show_icons=true)
-
-
-Language & Tool:  
-
-[![My Skills](https://skillicons.dev/icons?i=laravel,html,css,bootstrap,js,jquery,c,cs,cpp,java,dotnet,php,git,github,linux,mysql,discord,materialui,ps,vscode,unity,blender,react)]()
-<!---
-prabeshtiwari1414/prabeshtiwari1414 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-### :fire: My Stats :
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prabeshtiwari1414&theme=blueberry&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=prabeshtiwari1414&theme=blueberry)](https://git.io/streak-stats)
 
+---
 
+### 🛠️ Languages & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=laravel,html,css,bootstrap,js,jquery,c,cs,cpp,java,dotnet,php,git,github,linux,mysql,discord,materialui,ps,vscode,unity,blender,react)]()
+
+---
+
+<!--
+✨ Special repository ✨
+This README.md file appears on your GitHub profile.
+-->
 
