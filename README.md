@@ -1,5 +1,6 @@
 <!-- Banner Image -->
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQFXTkyy2uQ4wQ/profile-displaybackgroundimage-shrink_350_1400/0/1737379946607?e=1756339200&v=beta&t=ymAv5DQPr8jToP7OGSsHQf7aTzqt6k-Q5ld6kxhNCo8" alt="banner" width="100%" />
+
+<img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/e7f5fe19-59dd-478c-80f1-7d4a1fbdbe21" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=Details+below+%F0%9F%91%87.)](https://git.io/typing-svg)
 
