@@ -2,6 +2,8 @@
 
 <img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/e7f5fe19-59dd-478c-80f1-7d4a1fbdbe21" />
 
+---
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=Details+below+%F0%9F%91%87.)](https://git.io/typing-svg)
 
 ### 👋 Hi there! I’m **Prabesh Tiwari**
