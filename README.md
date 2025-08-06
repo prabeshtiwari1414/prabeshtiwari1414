@@ -55,11 +55,7 @@
 [![My Skills](https://skillicons.dev/icons?i=laravel,html,css,bootstrap,js,jquery,c,cs,cpp,java,dotnet,php,git,github,linux,mysql,discord,materialui,ps,vscode,unity,blender,react)]()
 
 ---
-## 🐍 Watch my contributions get eaten by a snake
 
-![snake gif](https://github.com/prabeshtiwari1414/prabeshtiwari1414/blob/output/github-contribution-grid-snake.svg)
-
----
 <!--
 ✨ Special repository ✨
 This README.md file appears on your GitHub profile.
