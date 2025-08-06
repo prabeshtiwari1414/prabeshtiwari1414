@@ -15,7 +15,7 @@ jobs:
         with:
           github_user_name: prabeshtiwari1414
           outputs: |
-            blob/output/github-contribution-grid-snake.svg
+            ./github-contribution-grid-snake.svg
 
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v9
